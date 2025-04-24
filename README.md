@@ -13,8 +13,8 @@ Soy un apasionado del desarrollo de software con la firme convicción de que la 
 ### 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Python, JavaScript, HTML, CSS
-- **Frameworks y bibliotecas:** [Especificar si aplica]
-- **Herramientas:** Git, GitHub, [Especificar si aplica]
+- **Frameworks y bibliotecas:** Django, Flask & Flet
+- **Herramientas:** Git, GitHub, VScode.
 
 ---
 
@@ -26,9 +26,7 @@ Soy un apasionado del desarrollo de software con la firme convicción de que la 
 
 ### 📫 Cómo contactarme
 
-- **Correo electrónico:** xenon.py.dev@gmail.com
-- **Twitter:** [@LuisEyoma](https://twitter.com/LuisEyoma)
-- **LinkedIn:** [Luis Rafael Eyoma](https://www.linkedin.com/in/luisrafaeleyoma)
+- **Correo electrónico:** luisrafaeleyoma764@gmail.com 
 
 ---
 
