@@ -1,8 +1,7 @@
-# 👋 Hola, soy Luis Rafael Eyoma  
+# Bienvenido a mi portafolio, soy Luis Rafael Eyoma  
 
-### 💻 Programador autodidacta | 🚀 Fundador de **Xenon.py** | 💡 Apasionado por crear software con impacto  
+### 💻 Programador autodidacta | 🚀 Fundador de **Xenon.py** | 💡 Apasionado por crear software con impacto.
 
----
 
 ## 👨‍💻 Sobre mí  
 
@@ -28,13 +27,14 @@ Me apasiona aprender, crear herramientas útiles y compartir mi camino como **au
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
 </p>
 
----
 
 ## 🌟 Proyectos Destacados  
 
 🔗 **[Portafolio Web](https://xenon0001.github.io/portfolio/)** → Mi carta de presentación digital como programador.  
 
-📘 **[Autodidacta](https://github.com/Xenon0001/AUTODIDACTA)** → Registro de mis estudios, avances y notas como programador autodidacta.  
+📘 **[Autodidacta](https://github.com/Xenon0001/AUTODIDACTA)** → Registro de mis estudios, avances y notas como programador autodidacta.
+
+🏪 **[Demo StoreTic](https://xenon0001.github.io/Web-Projects/demo_storetic/)** → Demo web de StoreTic, una tienda online.
 
 ⚡️ **Otro proyecto (ejemplo)** → Una herramienta práctica desarrollada en Python para resolver [explica brevemente qué problema resuelve].  
 
