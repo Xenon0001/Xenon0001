@@ -34,9 +34,7 @@ Me apasiona aprender, crear herramientas útiles y compartir mi camino como **au
 
 📘 **[Autodidacta](https://github.com/Xenon0001/AUTODIDACTA)** → Registro de mis estudios, avances y notas como programador autodidacta.
 
-🏪 **[Demo StoreTic](https://xenon0001.github.io/Web-Projects/demo_storetic/)** → Demo web de StoreTic, una tienda online.
-
-⚡️ **Otro proyecto (ejemplo)** → Una herramienta práctica desarrollada en Python para resolver [explica brevemente qué problema resuelve].  
+🏪 **[Demo StoreTic](https://xenon0001.github.io/Web-Projects/demo_storetic/)** → Demo web de StoreTic, una tienda online. 
 
 ---
 
