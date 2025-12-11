@@ -36,7 +36,7 @@ Cada creación busca resolver un problema persistente en mi país, dificultades,
 
 ## 🌟 Proyectos Destacados 
 
-🔗 **[Portafolio Web](https://github.com/Xenon0001/bibliogest)** → Aplicación de gestión para bibliotecas.  
+🔗 **[BiblioGest](https://github.com/Xenon0001/bibliogest)** → Aplicación de gestión para bibliotecas.  
 
 📘 **[Autodidacta](https://github.com/Xenon0001/AUTODIDACTA)** → Registro de mis estudios, avances y notas como programador autodidacta.
 
