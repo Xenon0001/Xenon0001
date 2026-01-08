@@ -1,4 +1,4 @@
-![Portada](https://github.com/Xenon0001/pictures/blob/main/logotipo_dark.png)
+![Portada](https://github.com/Xenon0001/pictures/blob/main/marcs/marc_port.png)
 # Luis Rafael Eyoma
 
 ### Programador autodidacta | Fundador de **Xenon.py** | Estudiante de Ingeniería
