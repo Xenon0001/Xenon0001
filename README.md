@@ -1,4 +1,5 @@
-# Luis Rafael Eyoma  
+![Portada](https://github.com/Xenon0001/pictures/blob/main/logotipo_dark.png)
+# Luis Rafael Eyoma
 
 ### Programador autodidacta | Fundador de **Xenon.py** | Estudiante de Ingeniería
 ```Apasionado por la tecnología y el desarrollo de software con impacto.```
