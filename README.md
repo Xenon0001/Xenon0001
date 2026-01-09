@@ -1,9 +1,9 @@
 ![Portada](https://github.com/Xenon0001/pictures/blob/main/marcs/marc_port.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=White)](https://luisrafael.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/luis-rafael-eyoma)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=White)](https://instagram.com/xenon.py)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=White)](https://www.youtube.com/@tuusuario)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=White)](https://www.youtube.com/@Xenon-Py)
 
 
 
