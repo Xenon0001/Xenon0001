@@ -9,9 +9,12 @@
 
 
 
-## Resumen
-Aquí encontrarás algunos de mis proyectos más importantes, tanto básicos como complejos, que en cierto modo me ayudaron a entender mejor el lenguaje y refinar mis habilidades como programador.
-Cada creación busca resolver un problema persistente en mi país, dificultades, que uso como práctica.
+## 👨‍💻 About Me
+
+Computer Engineering Student and self-taught Software Developer (Python).
+
+I develop practical solutions to real problems, using programming as a tool for learning, experimentation, and local impact. My projects range from basic to more advanced, reflecting continuous growth and real-world practice.
+
 
 
 
