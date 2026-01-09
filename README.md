@@ -1,8 +1,10 @@
 ![Portada](https://github.com/Xenon0001/pictures/blob/main/marcs/marc_port.png)
-# Luis Rafael Eyoma
 
-### Programador autodidacta | Fundador de **Xenon.py** | Estudiante de Ingeniería
-```Apasionado por la tecnología y el desarrollo de software con impacto.```
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=White)](https://luisrafael.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/tuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=White)](https://instagram.com/xenon.py)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=White)](https://www.youtube.com/@tuusuario)
+
 
 
 
@@ -17,40 +19,48 @@ Cada creación busca resolver un problema persistente en mi país, dificultades,
 
 ## Tech Stack  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-</p>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border: 2px solid white;">
 
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="border: 2px solid white;">
 
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border: 2px solid white;">
 
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white" alt="SQL" style="border: 2px solid white;">
 
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border: 2px solid white;">
 
-## 🌟 Proyectos Destacados 
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border: 2px solid white;">
 
-🔗 **[BiblioGest](https://github.com/Xenon0001/bibliogest)** → Aplicación de gestión para bibliotecas.  
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border: 2px solid white;">
 
-📘 **[Autodidacta](https://github.com/Xenon0001/AUTODIDACTA)** → Registro de mis estudios, avances y notas como programador autodidacta.
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="border: 2px solid white;">
 
-🏪 **[Demo StoreTic](https://xenon0001.github.io/Web-Projects/demo_storetic/)** → Demo web de StoreTic, una tienda online. 
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="border: 2px solid white;">
 
+  <!-- Flask -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border: 2px solid white;">
 
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="border: 2px solid white;">
 
+  <!-- Pydantic -->
+  <img src="https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" style="border: 2px solid white;">
 
-## 📬 Contacto & Enlaces  
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border: 2px solid white;">
 
-🌐 **[Portafolio](https://luisrafael.netlify.app)**  
-📸 Instagram: [@xenon.py](https://instagram.com/xenon.py)  
-✉️ Email: **xenonpy465@gmail.com**  
+</div>
 
 
 
