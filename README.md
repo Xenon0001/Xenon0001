@@ -20,7 +20,7 @@ I develop practical solutions to real problems, using programming as a tool for 
 
 
 
-## Tech Stack  
+## 🚀 Tech Stack  
 
 <div align="center">
 
