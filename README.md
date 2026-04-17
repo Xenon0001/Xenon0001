@@ -27,6 +27,9 @@ I develop practical solutions to real problems, using programming as a tool for 
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border: 2px solid white;">
 
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="border: 2px solid white;">
+
   <!-- Pandas -->
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="border: 2px solid white;">
 
