@@ -9,18 +9,22 @@
 
 
 
-## 👨‍💻 About Me
+## About Me
 
-Computer Engineering Student and self-taught Software Developer (Python).
+Computer Engineering Student and self-taught Software Developer.  
 
-I develop practical solutions to real problems, using programming as a tool for learning, experimentation, and local impact. My projects range from basic to more advanced, reflecting continuous growth and real-world practice.
+I build practical solutions to real-world problems with an *offline-first* philosophy,
+designed around the connectivity and technological realities of Equatorial Guinea.
+I use programming as a tool for learning, experimentation, and local impact.
+
+Particularly interested in automation, data analysis, and AI.
 
 
 
 
 
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 <div align="center">
 
